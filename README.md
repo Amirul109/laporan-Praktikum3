@@ -1,4 +1,7 @@
 # laporan-Praktikum3
+# Nama  : Amirul Mu'minin 
+# Kelas : Ti.21.C2 
+# Nim   : 312110109
 
 # Tugas 1 menggunakan method setter dan getter
 sours pscoudenya =
